@@ -55,7 +55,7 @@ int main()
     int playerScore = 0, computerScore = 0, temp,i;
     char a[100], playerChar, compChar;
     char dic[] = {'L', 'G', 'C'};
-    printf("Welcome to the game Lion ,Cow and Grass\n Enter Your Name Aliens \n");
+    printf("Welcome to the game Lion ,Cow and Grass\n Enter player Name \n");
     
     gets(a);
 
